@@ -1,4 +1,10 @@
 *.py[co]
+.DS_store
+# permutations from 0 to 9 for problem 43, this exactly 40 MB...
+permutations0to9-p43.txt
+# vim swap files
+.swp
+
 
 # Packages
 *.egg

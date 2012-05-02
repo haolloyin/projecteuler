@@ -1,4 +1,4 @@
 projecteuler
 ============
 
-solutions of projecteuler.net
+a little part solutions(ugly) of projecteuler.net
